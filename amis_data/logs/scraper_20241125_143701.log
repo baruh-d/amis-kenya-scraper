@@ -1,0 +1,8 @@
+2024-11-25 14:37:04,519 - AMISScraper - INFO - Scraping: County=Nairobi, Market=Nyamakima, Product=Dry maize, Attempt=1
+2024-11-25 14:37:04,520 - AMISScraper - ERROR - Error scraping Nairobi/Nyamakima/Dry maize: 'AMISScraper' object has no attribute 'set_filters'
+2024-11-25 14:37:10,645 - AMISScraper - ERROR - Error refreshing session: 'AMISScraper' object has no attribute '_wait_for_page_load'
+2024-11-25 14:37:13,575 - AMISScraper - INFO - Scraping: County=Nairobi, Market=Nyamakima, Product=Dry maize, Attempt=2
+2024-11-25 14:37:13,576 - AMISScraper - ERROR - Error scraping Nairobi/Nyamakima/Dry maize: 'AMISScraper' object has no attribute 'set_filters'
+2024-11-25 14:37:19,729 - AMISScraper - ERROR - Error refreshing session: 'AMISScraper' object has no attribute '_wait_for_page_load'
+2024-11-25 14:37:23,258 - AMISScraper - INFO - Scraping: County=Nairobi, Market=Nyamakima, Product=Dry maize, Attempt=3
+2024-11-25 14:37:23,259 - AMISScraper - ERROR - Error scraping Nairobi/Nyamakima/Dry maize: 'AMISScraper' object has no attribute 'set_filters'

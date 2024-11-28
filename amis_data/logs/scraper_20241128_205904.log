@@ -1,0 +1,54 @@
+2024-11-28 20:59:04,172 - AMISScraper - INFO - Initializing AMISScraper
+2024-11-28 20:59:15,373 - AMISScraper - INFO - Starting test run...
+2024-11-28 20:59:15,374 - AMISScraper - INFO - Scraping: Nairobi, Nyamakima, Dry maize
+2024-11-28 20:59:15,375 - AMISScraper - INFO - Setting filters for Dry maize in Nyamakima, Nairobi
+2024-11-28 20:59:34,498 - AMISScraper - ERROR - Error while waiting for page load: Message: 
+Stacktrace:
+#0 0x59c93299431a <unknown>
+#1 0x59c9324aa6e0 <unknown>
+#2 0x59c9324f93e6 <unknown>
+#3 0x59c9324f9681 <unknown>
+#4 0x59c93253eb04 <unknown>
+#5 0x59c93251d48d <unknown>
+#6 0x59c93253bed7 <unknown>
+#7 0x59c93251d203 <unknown>
+#8 0x59c9324ebcc0 <unknown>
+#9 0x59c9324ecc9e <unknown>
+#10 0x59c932961d0b <unknown>
+#11 0x59c932965c92 <unknown>
+#12 0x59c93294eb3c <unknown>
+#13 0x59c932966807 <unknown>
+#14 0x59c9329340df <unknown>
+#15 0x59c932983578 <unknown>
+#16 0x59c932983740 <unknown>
+#17 0x59c932993196 <unknown>
+#18 0x7515e289ca94 <unknown>
+#19 0x7515e2929c3c <unknown>
+
+2024-11-28 20:59:34,499 - AMISScraper - ERROR - Error in set_filters: Message: 
+Stacktrace:
+#0 0x59c93299431a <unknown>
+#1 0x59c9324aa6e0 <unknown>
+#2 0x59c9324f93e6 <unknown>
+#3 0x59c9324f9681 <unknown>
+#4 0x59c93253eb04 <unknown>
+#5 0x59c93251d48d <unknown>
+#6 0x59c93253bed7 <unknown>
+#7 0x59c93251d203 <unknown>
+#8 0x59c9324ebcc0 <unknown>
+#9 0x59c9324ecc9e <unknown>
+#10 0x59c932961d0b <unknown>
+#11 0x59c932965c92 <unknown>
+#12 0x59c93294eb3c <unknown>
+#13 0x59c932966807 <unknown>
+#14 0x59c9329340df <unknown>
+#15 0x59c932983578 <unknown>
+#16 0x59c932983740 <unknown>
+#17 0x59c932993196 <unknown>
+#18 0x7515e289ca94 <unknown>
+#19 0x7515e2929c3c <unknown>
+
+2024-11-28 20:59:34,501 - AMISScraper - WARNING - Skipping: Nairobi, Nyamakima, Dry maize - Filter setup failed
+2024-11-28 20:59:34,502 - AMISScraper - WARNING - No data collected across all configurations
+2024-11-28 20:59:34,502 - AMISScraper - ERROR - Test run failed to collect data
+2024-11-28 20:59:34,721 - AMISScraper - INFO - Browser closed successfully
